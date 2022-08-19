@@ -6,5 +6,3 @@
 console.log("Hello world");
 </body>
 </html>
-
-##리버트 되돌리기용
